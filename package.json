@@ -1,0 +1,14 @@
+{
+  "name": "benzo-gang-bot",
+  "version": "1.0.0",
+  "description": "Discord бот семьи BENZO GANG: заявки, CAPT/MCL наборы, АФК-система, админ-панель",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^11.3.0",
+    "discord.js": "^14.16.0",
+    "dotenv": "^16.4.5"
+  }
+}
